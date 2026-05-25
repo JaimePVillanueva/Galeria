@@ -1,1 +1,3 @@
 # Galeria
+
+Bienvenidos a git
